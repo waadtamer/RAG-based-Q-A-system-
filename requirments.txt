@@ -1,0 +1,9 @@
+Langchain
+langchain-core
+langchain-community
+pypdf
+pymupdf
+sentence_transforms
+chromadb
+streamlit
+google_gena
